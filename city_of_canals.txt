@@ -44,6 +44,7 @@ just under 3 is not enough, in the middle
 -just under 3, maybe 2.95
 - too close to count, maybe 2.9?
 - Just over 3.0, maybe 3.05
+- try 3.01
 
 hole 10
 3.33, middle of the full box from the left
@@ -56,6 +57,7 @@ try 3.25
 - nope, try 2.40
 - nope, try 2.45
 - 2.5
+- try 2.55
 
 hole 12
 full blast, middle of the block to the right from the middle, second block from the right
@@ -74,6 +76,7 @@ unknown
   - try bouncing it off the left and then skip all that shit
 - the block wit hthe arrows pointing up, to the middle with full blast gets you to the hole
 - this is the block, adjust slightly left or right and smidgen less?
+- try to the left instead, right did not work
 
 hole 15
 3.5 is too much, it's the first line from the left
@@ -97,6 +100,7 @@ not sure, look to the right, maybe the first line on the right
 - bounce left instead to bounce right then bounce left
 - got close but no cigar, maybe something different
 - that might be it, left two lines, more to the right, full blast
+- forget this strategy... come up with a new one
 
 hole 18
 full blast on the right line from the edge
