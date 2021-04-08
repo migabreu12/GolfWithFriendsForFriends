@@ -35,6 +35,7 @@ hole 7
 - nope, try to the right
 - gotta be right on the edge
 - maybe it's a little more to the right of the edge
+- yup, little more to the right, maybe the middle
 
 hole 8
 just under 4 on the right side (between column)
@@ -48,10 +49,12 @@ just under 3 is not enough, in the middle
 - Just over 3.0, maybe 3.05
 - try 3.01
 - probably just 3
+- try 2.95
 
 hole 10
 3.33, middle of the full box from the left
 - this is it
+- correction, maybe it's 3.25
 
 hole 11
 2.9 is too much
@@ -62,6 +65,7 @@ try 3.25
 - 2.5
 - try 2.55
 - yeah, it's touch af... try 2.55
+- this is it
 
 hole 12
 full blast, middle of the block to the right from the middle, second block from the right
@@ -81,6 +85,7 @@ unknown
 - the block wit hthe arrows pointing up, to the middle with full blast gets you to the hole
 - this is the block, adjust slightly left or right and smidgen less?
 - try to the left instead, right did not work
+- try going out of bounds, to go in bounds
 
 hole 15
 3.5 is too much, it's the first line from the left
@@ -90,6 +95,7 @@ try 2.75
  -, nope, try 3.25
  - try 3 again
  - nope, try 3.10
+ - nope, try 2.95
 
 hole 16
 middle block, full blast (arrows pointing down)
@@ -106,6 +112,7 @@ not sure, look to the right, maybe the first line on the right
 - got close but no cigar, maybe something different
 - that might be it, left two lines, more to the right, full blast
 - forget this strategy... come up with a new one
+- FOUND IT, it's running the ball off the bridge and hitting the triangle shaped pillar support at full blast - Left Side right where the wall ends and the bridge opens up
 
 hole 18
 full blast on the right line from the edge
