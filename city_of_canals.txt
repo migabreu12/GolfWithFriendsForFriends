@@ -50,11 +50,13 @@ just under 3 is not enough, in the middle
 - try 3.01
 - probably just 3
 - try 2.95
+- this is it, have to aim just at the hole for a 'nothing but net'
 
 hole 10
 3.33, middle of the full box from the left
 - this is it
 - correction, maybe it's 3.25
+- 3.20, this is it
 
 hole 11
 2.9 is too much
@@ -86,6 +88,7 @@ unknown
 - this is the block, adjust slightly left or right and smidgen less?
 - try to the left instead, right did not work
 - try going out of bounds, to go in bounds
+- good strategy... no idea where though
 
 hole 15
 3.5 is too much, it's the first line from the left
@@ -96,6 +99,7 @@ try 2.75
  - try 3 again
  - nope, try 3.10
  - nope, try 2.95
+ - nope, try 3.05
 
 hole 16
 middle block, full blast (arrows pointing down)
@@ -113,6 +117,7 @@ not sure, look to the right, maybe the first line on the right
 - that might be it, left two lines, more to the right, full blast
 - forget this strategy... come up with a new one
 - FOUND IT, it's running the ball off the bridge and hitting the triangle shaped pillar support at full blast - Left Side right where the wall ends and the bridge opens up
+- very close to the right edge of the left bridge opening
 
 hole 18
 full blast on the right line from the edge
