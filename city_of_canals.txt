@@ -71,7 +71,7 @@ try 3.25
 
 hole 12
 full blast, middle of the block to the right from the middle, second block from the right
-- this is it
+- this is it, arrows pointing down
 
 hole 13
 2.5 is not enough, maybe 2.75?
@@ -100,6 +100,7 @@ try 2.75
  - nope, try 3.10
  - nope, try 2.95
  - nope, try 3.05
+ - nope, try 2.80
 
 hole 16
 middle block, full blast (arrows pointing down)
@@ -118,6 +119,7 @@ not sure, look to the right, maybe the first line on the right
 - forget this strategy... come up with a new one
 - FOUND IT, it's running the ball off the bridge and hitting the triangle shaped pillar support at full blast - Left Side right where the wall ends and the bridge opens up
 - very close to the right edge of the left bridge opening
+- right strategy, not sure where
 
 hole 18
 full blast on the right line from the edge
