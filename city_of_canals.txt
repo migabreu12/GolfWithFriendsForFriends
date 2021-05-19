@@ -5,7 +5,7 @@ LESS THAN THAT, maybe 3.10
 - this is it, it rolls on in
 
 hole 2
-3 on the second line, a little to the left of that line
+3 on the full second line, a little to the left of that line
 - this is it
 
 hole 3
@@ -70,7 +70,7 @@ try 3.25
 - this is it
 
 hole 12
-full blast, middle of the block to the right from the middle, second block from the right
+full blast, middle of the block to the right from the middle, second full block from the right edge
 - this is it, arrows pointing down
 
 hole 13
@@ -101,6 +101,7 @@ try 2.75
  - nope, try 2.95
  - nope, try 3.05
  - nope, try 2.80
+ - close, Try a different angle of the first linle
 
 hole 16
 middle block, full blast (arrows pointing down)
